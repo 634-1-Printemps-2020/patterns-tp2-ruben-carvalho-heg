@@ -1,4 +1,6 @@
 import game.Game;
+import materials.Coin;
+import materials.CoinState;
 import player.Player;
 
 public class Main {
